@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Place all the styles related to the main controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
@@ -8,3 +9,25 @@
   height: 150px;
   border-radius: 75px;
 }
+=======
+<<<<<<< HEAD
+.drew-image {
+  margin-top: 15px;
+  border-radius: 50%;
+  border: solid 1px lightgray;
+  width: 70%;
+}
+
+.drew-image:hover {
+    opacity:0.5;
+  }
+
+  .drew-content {
+    margin-top: 20px;
+  }
+=======
+#container {
+	background-image: url("../..Downloads/Guss/Thisone.jpg");
+}
+>>>>>>> 838c2cf02e97b836ddea1708ef36087dfc934a03
+>>>>>>> 97364fcc26ee71075667e949ebb644d50cf43b1f
